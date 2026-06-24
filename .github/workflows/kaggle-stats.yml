@@ -13,12 +13,11 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Kaggle Stats Card
-        uses: gayanvoice/kaggle-readme@v1
+        uses: kshitijzutshi/kaggle-readme-action@v2.0
         env:
-          # This connects the script to the KAGGLE_KEY secret you saved!
           KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
         with:
-          kaggle_username: "n3rdx01" # Your exact public Kaggle username string
+          kaggle_username: "n3rdx01" # Your exact public Kaggle username
 
       - name: Commit and Push Changes
         run: |
