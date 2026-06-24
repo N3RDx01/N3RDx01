@@ -59,9 +59,7 @@
 ### 🏆 Kaggle Progression
 <!-- This card will automatically sync via your GitHub Actions daily cron job -->
 <p align="left">
-  <a href="https://github.com/gayanvoice/kaggle-readme">
-    <img src="https://raw.githubusercontent.com/gayanvoice/kaggle-readme/main/images/kaggle-stats.svg" alt="Kaggle Stats" width="450">
-  </a>
+  <img src="https://raw.githubusercontent.com/N3RDx01/N3RDx01/main/assets/kaggle-stats.svg" alt="Kaggle Stats" width="450">
 </p>
 
 ### 📈 GitHub Metrics
