@@ -56,12 +56,17 @@
 
 ## 📊 Analytics & Milestones
 
-### 🏆 Kaggle Progression
-<!-- This card will automatically sync via your GitHub Actions daily cron job -->
+### 🏆 Kaggle Milestones & Progression
 <p align="left">
-  <img src="https://raw.githubusercontent.com/N3RDx01/N3RDx01/main/assets/kaggle-stats.svg" alt="Kaggle Stats" width="450">
+  <a href="https://www.kaggle.com/n3rdx01" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile" />
+  </a>
+  <a href="https://www.kaggle.com/n3rdx01" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Rank%20%7C%20Notebooks-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle Rank" />
+  </a>
 </p>
 
+*Check out my active notebooks, structured datasets, and machine learning competition progress directly on my public profile.*
 ### 📈 GitHub Metrics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=N3RDx01&theme=prussian&hide_border=false&include_all_commits=true&count_private=true" alt="Vikrant's GitHub Stats" width="48%" />
