@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vikrant Pratap Singh (@N3RDx01) 🚀
+\# 👋 Hi, I’m Vikrant Pratap Singh (@N3RDx01) 🚀
 
 💻 A passionate developer and student focused on the intersection of **Machine Learning, Cybersecurity, and Automation**. I enjoy tackling real-world problems, engineering defensive security tools, and turning raw logic into polished, working solutions.
 
