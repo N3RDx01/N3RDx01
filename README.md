@@ -57,15 +57,17 @@
 ## 📊 Analytics & Milestones
 
 ### 🏆 Kaggle Milestones & Progression
+### 🏆 Kaggle Milestones & Progression
 <p align="left">
-  <a href="https://www.kaggle.com/n3rdx01" target="_blank">
+  <a href="https://www.kaggle.com/vikrant0904" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile" />
   </a>
-  <a href="https://www.kaggle.com/n3rdx01" target="_blank">
+  <a href="https://www.kaggle.com/vikrant0904" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Rank%20%7C%20Notebooks-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle Rank" />
   </a>
 </p>
 
+*Check out my active notebooks, structured datasets, and machine learning competition progress directly on my public profile.*
 *Check out my active notebooks, structured datasets, and machine learning competition progress directly on my public profile.*
 ### 📈 GitHub Metrics
 <p align="left">
